@@ -1,7 +1,7 @@
 # MineSweeperKHU
 
 ### main cpp file
-* project/minesweeper.cpp
+* Project/minesweeper.cpp
 
 ### main h file
-* project/minesweeper.h
+* Project/minesweeper.h
