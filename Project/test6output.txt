@@ -1,0 +1,27 @@
+Command: load test6board.txt
+Command: touch 6 3
+Command: touch 2 6
+Command: touch 4 3
+Command: touch 8 6
+Command: touch 3 3
+Command: touch 8 5
+Command: touch 7 3
+Command: touch 3 7
+Command: touch 6 1
+Command: touch 5 1
+Command: touch 4 4
+Command: touch 1 2
+Command: touch 5 5
+Game Over
+~~~~~~~~~
+Final Board
+.0..@...
+.....1.@
+..1...2.
+.@23@..@
+1..@*...
+0.2.....
+..1@.@..
+....22@.
+
+Spaces touched: 13

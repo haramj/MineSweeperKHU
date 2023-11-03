@@ -1,0 +1,49 @@
+Command: load test7board.txt
+Command: touch 6 6
+Command: touch 8 1
+Command: touch 5 8
+Command: touch 2 2
+Command: touch 1 5
+Command: touch 7 6
+Command: touch 8 4
+Command: touch 5 4
+Command: touch 3 3
+Command: touch 8 7
+Command: touch 6 2
+Command: touch 1 1
+Command: touch 2 7
+Command: touch 4 5
+Command: touch 6 5
+Command: touch 7 1
+Command: touch 6 1
+Command: touch 4 4
+Command: touch 4 8
+Command: touch 8 5
+Command: touch 2 8
+Command: touch 3 6
+Command: touch 2 4
+Command: touch 5 7
+Command: touch 3 4
+Command: touch 7 2
+Command: touch 6 3
+Command: touch 1 2
+Command: touch 4 3
+Command: touch 8 3
+Command: touch 6 7
+Command: touch 5 5
+Command: touch 5 2
+Command: touch 2 3
+Command: touch 3 5
+Game Over
+~~~~~~~~~
+Final Board
+00..1...
+.001.@32
+..01*4@@
+..012.@3
+.0.12@32
+001@322@
+00..@1..
+0.011.1@
+
+Spaces touched: 35

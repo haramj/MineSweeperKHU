@@ -1,0 +1,20 @@
+Command: load test10board.txt
+Command: touch 4 8
+Command: touch 7 2
+Command: touch 7 7
+Command: touch 3 8
+Command: touch 5 6
+Command: touch 2 7
+Game Over
+~~~~~~~~~
+Final Board
+.@......
+@@....*@
+.@.....2
+.......0
+@....0..
+.@......
+.1.@..1@
+........
+
+Spaces touched: 6

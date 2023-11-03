@@ -1,0 +1,69 @@
+Command: load test6board.txt
+Command: touch 6 3
+Command: touch 2 6
+Command: touch 4 3
+Command: touch 8 6
+Command: touch 3 3
+Command: touch 8 5
+Command: touch 7 3
+Command: touch 3 7
+Command: touch 6 1
+Command: touch 5 1
+Command: touch 4 4
+Command: touch 1 2
+Command: touch 5 5
+Command: touch 8 2
+Command: touch 3 2
+Command: touch 7 2
+Command: touch 6 4
+Command: touch 6 2
+Command: touch 3 5
+Command: touch 5 2
+Command: touch 1 8
+Command: touch 2 5
+Command: touch 5 7
+Command: touch 7 5
+Command: touch 1 3
+Command: touch 8 4
+Command: touch 8 3
+Command: touch 1 6
+Command: touch 2 1
+Command: touch 5 6
+Command: touch 4 6
+Command: touch 2 2
+Command: touch 3 4
+Command: touch 8 8
+Command: touch 3 1
+Command: touch 2 7
+Command: touch 8 1
+Command: touch 6 5
+Command: touch 2 3
+Command: touch 7 1
+Command: touch 3 6
+Command: touch 1 4
+Command: touch 6 6
+Command: touch 4 1
+Command: touch 7 7
+Command: touch 5 8
+Command: touch 1 7
+Command: touch 5 3
+Command: touch 6 7
+Command: touch 1 1
+Command: touch 2 4
+Command: touch 4 7
+Command: touch 3 8
+Command: touch 7 8
+Command: touch 6 8
+Game Over
+~~~~~~~~~
+Final Board
+        
+        
+        
+        
+        
+        
+        
+        
+
+Spaces touched: 55

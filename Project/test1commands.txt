@@ -1,0 +1,2 @@
+load test1board.txt
+display

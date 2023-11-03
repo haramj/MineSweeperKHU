@@ -1,0 +1,15 @@
+Command: load test3board.txt
+Command: touch 5 5
+Game Over
+~~~~~~~~~
+Final Board
+......@.
+.......@
+........
+....@...
+...@*...
+....@...
+.......@
+....@.@@
+
+Spaces touched: 1
